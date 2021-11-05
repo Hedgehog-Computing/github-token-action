@@ -1,5 +1,5 @@
 name: Authenticate GitHub Token
-author: '@DimensionDev'
+author: '@hedgehog'
 
 description: Authenticate npm for consuming and publishing packages from and to the GitHub Package Registry
 
