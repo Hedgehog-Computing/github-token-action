@@ -1,7 +1,7 @@
 {
-  "name": "@dimensiondev/github-token-action",
+  "name": "@hedgehog/github-token-action",
   "private": true,
-  "repository": "https://github.com/DimensionDev/github-token-action",
+  "repository": "https://github.com/hedgehog/github-token-action",
   "license": "MIT",
   "scripts": {
     "build": "ncc build -m ./src/index.ts",
@@ -21,5 +21,6 @@
     "eslint": "^7.25.0",
     "prettier": "^2.2.1",
     "typescript": "^4.2.4"
-  }
+  },
+  "packageManager": "yarn@3.1.0"
 }
